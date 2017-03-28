@@ -19,7 +19,9 @@ We have a Slack channel at the office where anybody can post a Podcast Site or E
 - Aditionally, [by some kind of magic] we would scrape the link and try to find metadata.
 
 ### I'd like to find a good Episode to listen to
-- 
+- I would like to search by "theme" or "tag", i.e. "Agile" or "Software Engineering".
+- I would like to search by "title" or "description", i.e. "The Changelog" or "Radio Westeros"
+- [At some point ] I would like to get a recommendation of something neat to hear.
 
 ### I'd like to help to curate the data we have so others can find even better things to listen to.
 - After I listened to a superb (or lousy) episode I can add feedback to the link.
