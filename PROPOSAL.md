@@ -26,3 +26,7 @@ We have a Slack channel at the office where anybody can post a Podcast Site or E
   - In Slack by Reacting.
   - In the Web by clicking something.
   - In other platforms somehow. (Because we always build a multiplatform Bots).
+
+
+-----
+**NOTE**: This could be generalized to other things besides podcasts 😉
