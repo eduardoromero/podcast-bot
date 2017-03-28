@@ -1,5 +1,5 @@
 # Podcast Bot
-A Chat Bot that manages Podcast recommendations.
+A Chat Bot that manages a Catalog of Podcast recommendations.
 
 ## The rationale behind it
 We have a Slack channel at the office where anybody can post a Podcast Site or Episode that they liked or found so interesting that they'd like to share it with the team.
